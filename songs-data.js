@@ -1,0 +1,47 @@
+const songs = [
+    {
+      id: 1,
+      title: 'Ocean Breeze',
+      artist: 'Ariana Sky',
+      album: 'Summer Vibes',
+      thumbnail: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80',
+      songFile: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3',
+      listenLink: 'https://open.spotify.com/track/1',
+    },
+    {
+      id: 2,
+      title: 'Midnight Drive',
+      artist: 'Neon Highway',
+      album: 'City Lights',
+      thumbnail: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80',
+      songFile: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3',
+      listenLink: 'https://open.spotify.com/track/2',
+    },
+    {
+      id: 3,
+      title: 'Sunset Boulevard',
+      artist: 'Luna Waves',
+      album: 'Golden Hour',
+      thumbnail: 'https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=400&q=80',
+      songFile: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3',
+      listenLink: 'https://open.spotify.com/track/3',
+    },
+    {
+      id: 4,
+      title: 'Electric Aurora',
+      artist: 'Synth Pulse',
+      album: 'Neon Dreams',
+      thumbnail: 'https://images.unsplash.com/photo-1534625014735-2fbf85be29c3?auto=format&fit=crop&w=400&q=80',
+      songFile: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3',
+      listenLink: 'https://open.spotify.com/track/4',
+    },
+    {
+      id: 5,
+      title: 'Starlight Serenade',
+      artist: 'Cosmic Soul',
+      album: 'Infinite Skies',
+      thumbnail: 'https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=400&q=80',
+      songFile: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3',
+      listenLink: 'https://open.spotify.com/track/5',
+    }
+  ];
